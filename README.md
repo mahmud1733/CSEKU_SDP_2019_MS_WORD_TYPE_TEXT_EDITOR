@@ -20,6 +20,9 @@ Project Desciption:
 By the text editor we can edit selected text written in the editor. We can change the font name, font size, font style, paragraph, heading. We can undo, redo some edits. We have added the headings, and style buttons. The editor can find a specific word. We also can insert image and table. And can save our text as doc, docs, pdf. We can also open a word document in our text editor.
 
 This editor is much more easier to use than ms word.
+The sourch code and the whole project link is given in the src file.
 
 
 Youtube Link: 
+
+project link: https://drive.google.com/file/d/1ay4PEjFznRH3Kx_mxlyOcl0iBUTwzMI_/view?usp=sharing
