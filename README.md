@@ -23,6 +23,7 @@ This editor is much more easier to use than ms word.
 The sourch code and the whole project link is given in the src file.
 
 
-Youtube Link: 
+Youtube Link: Part1:https://www.youtube.com/watch?v=3Bu0PA-PB-g&t=10s
+Part2:https://www.youtube.com/watch?v=H83lixT69lE
 
 project link: https://drive.google.com/file/d/1ay4PEjFznRH3Kx_mxlyOcl0iBUTwzMI_/view?usp=sharing
