@@ -1,0 +1,297 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A26BD77A-DDE4-46A4-B188-C14FAEDD7DEC}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>WordOfGroup1</RootNamespace>
+    <AssemblyName>WordOfGroup1</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.Data.v18.2, Version=18.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Diagram.v18.2.Core, Version=18.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Images.v18.2, Version=18.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Office.v18.2.Core, Version=18.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Pdf.v18.2.Core, Version=18.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Printing.v18.2.Core, Version=18.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.RichEdit.v18.2.Core, Version=18.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Utils.v18.2, Version=18.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraBars.v18.2, Version=18.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraDiagram.v18.2, Version=18.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v18.2, Version=18.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraGrid.v18.2, Version=18.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraPrinting.v18.2, Version=18.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraRichEdit.v18.2, Version=18.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraVerticalGrid.v18.2, Version=18.2.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ButtonZ.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="FileOptionsControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="FileOptionsControl.Designer.cs">
+      <DependentUpon>FileOptionsControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoadingForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoadingForm.Designer.cs">
+      <DependentUpon>LoadingForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MinMaxButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="PanelX.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TabButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="TabPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <EmbeddedResource Include="FileOptionsControl.resx">
+      <DependentUpon>FileOptionsControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoadingForm.resx">
+      <DependentUpon>LoadingForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\index.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rsz_save.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\save.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\drop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow_drop_down-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cut1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\copy1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\paste1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Undo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Redo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IncreaseFontSize.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DecreaseFontSize.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AlignLeft.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AlignCenter.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AlignRight.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AlignJustify.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ToggleBullets.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ToggleNumbering.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IncreaseIndentation.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DecreaseIndentation.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Back-2-2-icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Back-2-2-icon11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\redo-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\untitled.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ToggleNumbering1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AlignJustify1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Back-2-2-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cmd_strikethrough.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\171-S-5121.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\171-S-51211.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\171-S-51212.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\171-S-51213.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\171-S-51214.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Filetype-Font-icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Apps-preferences-desktop-font-icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Apps-preferences-desktop-font-icon11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-color-fill-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-color-fill-icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-fill-color-icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Actions-fill-color-icon11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Editing-Increase-Font-icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Editing-Decrease-Font-icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Editing-Decrease-Font-icon11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Editing-Decrease-Font-icon111.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Editing-Increase-Font-icon11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Editing-Increase-Font-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AlignCenter1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Spell-CheckABC-icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Close-icon11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Close-icon111.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Database-Table-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Database-Table-icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Photos-icon.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
