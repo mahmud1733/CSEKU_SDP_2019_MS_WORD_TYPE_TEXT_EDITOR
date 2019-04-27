@@ -1,0 +1,545 @@
+G:\K.U\3-1 Term\SDP\Lab\WordOfGroup1\WordOfGroup1\bin\Debug\WordOfGroup1.exe.config
+G:\K.U\3-1 Term\SDP\Lab\WordOfGroup1\WordOfGroup1\bin\Debug\WordOfGroup1.exe
+G:\K.U\3-1 Term\SDP\Lab\WordOfGroup1\WordOfGroup1\bin\Debug\WordOfGroup1.pdb
+G:\K.U\3-1 Term\SDP\Lab\WordOfGroup1\WordOfGroup1\obj\Debug\WordOfGroup1.csprojAssemblyReference.cache
+G:\K.U\3-1 Term\SDP\Lab\WordOfGroup1\WordOfGroup1\obj\Debug\WordOfGroup1.LoadingForm.resources
+G:\K.U\3-1 Term\SDP\Lab\WordOfGroup1\WordOfGroup1\obj\Debug\WordOfGroup1.Properties.Resources.resources
+G:\K.U\3-1 Term\SDP\Lab\WordOfGroup1\WordOfGroup1\obj\Debug\WordOfGroup1.csproj.GenerateResource.cache
+G:\K.U\3-1 Term\SDP\Lab\WordOfGroup1\WordOfGroup1\obj\Debug\WordOfGroup1.csproj.CoreCompileInputs.cache
+G:\K.U\3-1 Term\SDP\Lab\WordOfGroup1\WordOfGroup1\obj\Debug\WordOfGroup1.exe
+G:\K.U\3-1 Term\SDP\Lab\WordOfGroup1\WordOfGroup1\obj\Debug\WordOfGroup1.pdb
+G:\K.U\3-1 Term\SDP\Lab\WordOfGroup1\WordOfGroup1\obj\Debug\WordOfGroup1.MainForm.resources
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1\WordOfGroup1\bin\Debug\WordOfGroup1.exe.config
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1\WordOfGroup1\bin\Debug\WordOfGroup1.exe
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1\WordOfGroup1\bin\Debug\WordOfGroup1.pdb
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1\WordOfGroup1\obj\Debug\WordOfGroup1.csprojAssemblyReference.cache
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1\WordOfGroup1\obj\Debug\WordOfGroup1.LoadingForm.resources
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1\WordOfGroup1\obj\Debug\WordOfGroup1.MainForm.resources
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1\WordOfGroup1\obj\Debug\WordOfGroup1.Properties.Resources.resources
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1\WordOfGroup1\obj\Debug\WordOfGroup1.csproj.GenerateResource.cache
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1\WordOfGroup1\obj\Debug\WordOfGroup1.csproj.CoreCompileInputs.cache
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1\WordOfGroup1\obj\Debug\WordOfGroup1.exe
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1\WordOfGroup1\obj\Debug\WordOfGroup1.pdb
+G:\K.U\3-1 Term\SDP LAB\Notepad\WordOfGroup1\WordOfGroup1\bin\Debug\WordOfGroup1.exe.config
+G:\K.U\3-1 Term\SDP LAB\Notepad\WordOfGroup1\WordOfGroup1\bin\Debug\WordOfGroup1.exe
+G:\K.U\3-1 Term\SDP LAB\Notepad\WordOfGroup1\WordOfGroup1\bin\Debug\WordOfGroup1.pdb
+G:\K.U\3-1 Term\SDP LAB\Notepad\WordOfGroup1\WordOfGroup1\obj\Debug\WordOfGroup1.csprojAssemblyReference.cache
+G:\K.U\3-1 Term\SDP LAB\Notepad\WordOfGroup1\WordOfGroup1\obj\Debug\WordOfGroup1.LoadingForm.resources
+G:\K.U\3-1 Term\SDP LAB\Notepad\WordOfGroup1\WordOfGroup1\obj\Debug\WordOfGroup1.MainForm.resources
+G:\K.U\3-1 Term\SDP LAB\Notepad\WordOfGroup1\WordOfGroup1\obj\Debug\WordOfGroup1.Properties.Resources.resources
+G:\K.U\3-1 Term\SDP LAB\Notepad\WordOfGroup1\WordOfGroup1\obj\Debug\WordOfGroup1.csproj.GenerateResource.cache
+G:\K.U\3-1 Term\SDP LAB\Notepad\WordOfGroup1\WordOfGroup1\obj\Debug\WordOfGroup1.csproj.CoreCompileInputs.cache
+G:\K.U\3-1 Term\SDP LAB\Notepad\WordOfGroup1\WordOfGroup1\obj\Debug\WordOfGroup1.exe
+G:\K.U\3-1 Term\SDP LAB\Notepad\WordOfGroup1\WordOfGroup1\obj\Debug\WordOfGroup1.pdb
+C:\Users\Acer\Downloads\WordOfGroup1\WordOfGroup1\bin\Debug\WordOfGroup1.exe.config
+C:\Users\Acer\Downloads\WordOfGroup1\WordOfGroup1\bin\Debug\WordOfGroup1.exe
+C:\Users\Acer\Downloads\WordOfGroup1\WordOfGroup1\bin\Debug\WordOfGroup1.pdb
+C:\Users\Acer\Downloads\WordOfGroup1\WordOfGroup1\obj\Debug\WordOfGroup1.csprojAssemblyReference.cache
+C:\Users\Acer\Downloads\WordOfGroup1\WordOfGroup1\obj\Debug\WordOfGroup1.LoadingForm.resources
+C:\Users\Acer\Downloads\WordOfGroup1\WordOfGroup1\obj\Debug\WordOfGroup1.MainForm.resources
+C:\Users\Acer\Downloads\WordOfGroup1\WordOfGroup1\obj\Debug\WordOfGroup1.Properties.Resources.resources
+C:\Users\Acer\Downloads\WordOfGroup1\WordOfGroup1\obj\Debug\WordOfGroup1.csproj.GenerateResource.cache
+C:\Users\Acer\Downloads\WordOfGroup1\WordOfGroup1\obj\Debug\WordOfGroup1.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Downloads\WordOfGroup1\WordOfGroup1\obj\Debug\WordOfGroup1.exe
+C:\Users\Acer\Downloads\WordOfGroup1\WordOfGroup1\obj\Debug\WordOfGroup1.pdb
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  12-03.2019\WordOfGroup1\bin\Debug\WordOfGroup1.exe.config
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  12-03.2019\WordOfGroup1\bin\Debug\WordOfGroup1.exe
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  12-03.2019\WordOfGroup1\bin\Debug\WordOfGroup1.pdb
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  12-03.2019\WordOfGroup1\bin\Debug\DevExpress.Data.v18.2.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  12-03.2019\WordOfGroup1\bin\Debug\DevExpress.Images.v18.2.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  12-03.2019\WordOfGroup1\bin\Debug\DevExpress.Office.v18.2.Core.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  12-03.2019\WordOfGroup1\bin\Debug\DevExpress.Pdf.v18.2.Core.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  12-03.2019\WordOfGroup1\bin\Debug\DevExpress.Printing.v18.2.Core.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  12-03.2019\WordOfGroup1\bin\Debug\DevExpress.RichEdit.v18.2.Core.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  12-03.2019\WordOfGroup1\bin\Debug\DevExpress.Utils.v18.2.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  12-03.2019\WordOfGroup1\bin\Debug\DevExpress.XtraBars.v18.2.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  12-03.2019\WordOfGroup1\bin\Debug\DevExpress.XtraEditors.v18.2.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  12-03.2019\WordOfGroup1\bin\Debug\DevExpress.XtraGrid.v18.2.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  12-03.2019\WordOfGroup1\bin\Debug\DevExpress.XtraPrinting.v18.2.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  12-03.2019\WordOfGroup1\bin\Debug\DevExpress.XtraRichEdit.v18.2.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  12-03.2019\WordOfGroup1\bin\Debug\DevExpress.Sparkline.v18.2.Core.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  12-03.2019\WordOfGroup1\bin\Debug\DevExpress.XtraLayout.v18.2.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  12-03.2019\WordOfGroup1\bin\Debug\DevExpress.XtraTreeList.v18.2.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  12-03.2019\WordOfGroup1\bin\Debug\DevExpress.Data.v18.2.xml
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  12-03.2019\WordOfGroup1\bin\Debug\DevExpress.Office.v18.2.Core.xml
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  12-03.2019\WordOfGroup1\bin\Debug\DevExpress.Pdf.v18.2.Core.xml
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  12-03.2019\WordOfGroup1\bin\Debug\DevExpress.Printing.v18.2.Core.xml
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  12-03.2019\WordOfGroup1\bin\Debug\DevExpress.RichEdit.v18.2.Core.xml
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  12-03.2019\WordOfGroup1\bin\Debug\DevExpress.Utils.v18.2.xml
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  12-03.2019\WordOfGroup1\bin\Debug\DevExpress.XtraBars.v18.2.xml
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  12-03.2019\WordOfGroup1\bin\Debug\DevExpress.XtraEditors.v18.2.xml
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  12-03.2019\WordOfGroup1\bin\Debug\DevExpress.XtraGrid.v18.2.xml
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  12-03.2019\WordOfGroup1\bin\Debug\DevExpress.XtraPrinting.v18.2.xml
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  12-03.2019\WordOfGroup1\bin\Debug\DevExpress.XtraRichEdit.v18.2.xml
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  12-03.2019\WordOfGroup1\bin\Debug\DevExpress.Sparkline.v18.2.Core.xml
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  12-03.2019\WordOfGroup1\bin\Debug\DevExpress.XtraLayout.v18.2.xml
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  12-03.2019\WordOfGroup1\bin\Debug\DevExpress.XtraTreeList.v18.2.xml
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  12-03.2019\WordOfGroup1\bin\Debug\de\DevExpress.Data.v18.2.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  12-03.2019\WordOfGroup1\bin\Debug\es\DevExpress.Data.v18.2.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  12-03.2019\WordOfGroup1\bin\Debug\ja\DevExpress.Data.v18.2.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  12-03.2019\WordOfGroup1\bin\Debug\ru\DevExpress.Data.v18.2.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  12-03.2019\WordOfGroup1\bin\Debug\de\DevExpress.Office.v18.2.Core.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  12-03.2019\WordOfGroup1\bin\Debug\es\DevExpress.Office.v18.2.Core.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  12-03.2019\WordOfGroup1\bin\Debug\ja\DevExpress.Office.v18.2.Core.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  12-03.2019\WordOfGroup1\bin\Debug\ru\DevExpress.Office.v18.2.Core.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  12-03.2019\WordOfGroup1\bin\Debug\de\DevExpress.Pdf.v18.2.Core.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  12-03.2019\WordOfGroup1\bin\Debug\es\DevExpress.Pdf.v18.2.Core.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  12-03.2019\WordOfGroup1\bin\Debug\ja\DevExpress.Pdf.v18.2.Core.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  12-03.2019\WordOfGroup1\bin\Debug\ru\DevExpress.Pdf.v18.2.Core.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  12-03.2019\WordOfGroup1\bin\Debug\de\DevExpress.Printing.v18.2.Core.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  12-03.2019\WordOfGroup1\bin\Debug\es\DevExpress.Printing.v18.2.Core.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  12-03.2019\WordOfGroup1\bin\Debug\ja\DevExpress.Printing.v18.2.Core.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  12-03.2019\WordOfGroup1\bin\Debug\ru\DevExpress.Printing.v18.2.Core.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  12-03.2019\WordOfGroup1\bin\Debug\de\DevExpress.RichEdit.v18.2.Core.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  12-03.2019\WordOfGroup1\bin\Debug\es\DevExpress.RichEdit.v18.2.Core.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  12-03.2019\WordOfGroup1\bin\Debug\ja\DevExpress.RichEdit.v18.2.Core.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  12-03.2019\WordOfGroup1\bin\Debug\ru\DevExpress.RichEdit.v18.2.Core.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  12-03.2019\WordOfGroup1\bin\Debug\de\DevExpress.Utils.v18.2.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  12-03.2019\WordOfGroup1\bin\Debug\es\DevExpress.Utils.v18.2.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  12-03.2019\WordOfGroup1\bin\Debug\ja\DevExpress.Utils.v18.2.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  12-03.2019\WordOfGroup1\bin\Debug\ru\DevExpress.Utils.v18.2.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  12-03.2019\WordOfGroup1\bin\Debug\de\DevExpress.XtraBars.v18.2.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  12-03.2019\WordOfGroup1\bin\Debug\es\DevExpress.XtraBars.v18.2.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  12-03.2019\WordOfGroup1\bin\Debug\ja\DevExpress.XtraBars.v18.2.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  12-03.2019\WordOfGroup1\bin\Debug\ru\DevExpress.XtraBars.v18.2.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  12-03.2019\WordOfGroup1\bin\Debug\de\DevExpress.XtraEditors.v18.2.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  12-03.2019\WordOfGroup1\bin\Debug\es\DevExpress.XtraEditors.v18.2.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  12-03.2019\WordOfGroup1\bin\Debug\ja\DevExpress.XtraEditors.v18.2.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  12-03.2019\WordOfGroup1\bin\Debug\ru\DevExpress.XtraEditors.v18.2.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  12-03.2019\WordOfGroup1\bin\Debug\de\DevExpress.XtraGrid.v18.2.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  12-03.2019\WordOfGroup1\bin\Debug\es\DevExpress.XtraGrid.v18.2.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  12-03.2019\WordOfGroup1\bin\Debug\ja\DevExpress.XtraGrid.v18.2.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  12-03.2019\WordOfGroup1\bin\Debug\ru\DevExpress.XtraGrid.v18.2.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  12-03.2019\WordOfGroup1\bin\Debug\de\DevExpress.XtraPrinting.v18.2.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  12-03.2019\WordOfGroup1\bin\Debug\es\DevExpress.XtraPrinting.v18.2.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  12-03.2019\WordOfGroup1\bin\Debug\ja\DevExpress.XtraPrinting.v18.2.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  12-03.2019\WordOfGroup1\bin\Debug\ru\DevExpress.XtraPrinting.v18.2.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  12-03.2019\WordOfGroup1\bin\Debug\de\DevExpress.XtraRichEdit.v18.2.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  12-03.2019\WordOfGroup1\bin\Debug\es\DevExpress.XtraRichEdit.v18.2.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  12-03.2019\WordOfGroup1\bin\Debug\ja\DevExpress.XtraRichEdit.v18.2.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  12-03.2019\WordOfGroup1\bin\Debug\ru\DevExpress.XtraRichEdit.v18.2.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  12-03.2019\WordOfGroup1\bin\Debug\de\DevExpress.Sparkline.v18.2.Core.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  12-03.2019\WordOfGroup1\bin\Debug\es\DevExpress.Sparkline.v18.2.Core.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  12-03.2019\WordOfGroup1\bin\Debug\ja\DevExpress.Sparkline.v18.2.Core.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  12-03.2019\WordOfGroup1\bin\Debug\ru\DevExpress.Sparkline.v18.2.Core.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  12-03.2019\WordOfGroup1\bin\Debug\de\DevExpress.XtraLayout.v18.2.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  12-03.2019\WordOfGroup1\bin\Debug\es\DevExpress.XtraLayout.v18.2.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  12-03.2019\WordOfGroup1\bin\Debug\ja\DevExpress.XtraLayout.v18.2.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  12-03.2019\WordOfGroup1\bin\Debug\ru\DevExpress.XtraLayout.v18.2.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  12-03.2019\WordOfGroup1\bin\Debug\de\DevExpress.XtraTreeList.v18.2.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  12-03.2019\WordOfGroup1\bin\Debug\es\DevExpress.XtraTreeList.v18.2.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  12-03.2019\WordOfGroup1\bin\Debug\ja\DevExpress.XtraTreeList.v18.2.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  12-03.2019\WordOfGroup1\bin\Debug\ru\DevExpress.XtraTreeList.v18.2.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  12-03.2019\WordOfGroup1\obj\Debug\WordOfGroup1.csprojAssemblyReference.cache
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  12-03.2019\WordOfGroup1\obj\Debug\WordOfGroup1.LoadingForm.resources
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  12-03.2019\WordOfGroup1\obj\Debug\WordOfGroup1.MainForm.resources
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  12-03.2019\WordOfGroup1\obj\Debug\WordOfGroup1.Properties.Resources.resources
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  12-03.2019\WordOfGroup1\obj\Debug\WordOfGroup1.csproj.GenerateResource.cache
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  12-03.2019\WordOfGroup1\obj\Debug\WordOfGroup1.exe.licenses
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  12-03.2019\WordOfGroup1\obj\Debug\WordOfGroup1.csproj.CoreCompileInputs.cache
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  12-03.2019\WordOfGroup1\obj\Debug\WordOfGroup1.csproj.CopyComplete
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  12-03.2019\WordOfGroup1\obj\Debug\WordOfGroup1.exe
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  12-03.2019\WordOfGroup1\obj\Debug\WordOfGroup1.pdb
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  12-03.2019\WordOfGroup1\obj\Debug\WordOfGroup1.FileOptionsControl.resources
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  21-03.2019\WordOfGroup1\bin\Debug\WordOfGroup1.exe.config
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  21-03.2019\WordOfGroup1\bin\Debug\WordOfGroup1.exe
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  21-03.2019\WordOfGroup1\bin\Debug\WordOfGroup1.pdb
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  21-03.2019\WordOfGroup1\bin\Debug\DevExpress.Data.v18.2.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  21-03.2019\WordOfGroup1\bin\Debug\DevExpress.Images.v18.2.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  21-03.2019\WordOfGroup1\bin\Debug\DevExpress.Office.v18.2.Core.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  21-03.2019\WordOfGroup1\bin\Debug\DevExpress.Pdf.v18.2.Core.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  21-03.2019\WordOfGroup1\bin\Debug\DevExpress.Printing.v18.2.Core.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  21-03.2019\WordOfGroup1\bin\Debug\DevExpress.RichEdit.v18.2.Core.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  21-03.2019\WordOfGroup1\bin\Debug\DevExpress.Utils.v18.2.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  21-03.2019\WordOfGroup1\bin\Debug\DevExpress.XtraBars.v18.2.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  21-03.2019\WordOfGroup1\bin\Debug\DevExpress.XtraEditors.v18.2.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  21-03.2019\WordOfGroup1\bin\Debug\DevExpress.XtraGrid.v18.2.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  21-03.2019\WordOfGroup1\bin\Debug\DevExpress.XtraPrinting.v18.2.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  21-03.2019\WordOfGroup1\bin\Debug\DevExpress.XtraRichEdit.v18.2.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  21-03.2019\WordOfGroup1\bin\Debug\DevExpress.Sparkline.v18.2.Core.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  21-03.2019\WordOfGroup1\bin\Debug\DevExpress.XtraLayout.v18.2.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  21-03.2019\WordOfGroup1\bin\Debug\DevExpress.XtraTreeList.v18.2.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  21-03.2019\WordOfGroup1\bin\Debug\DevExpress.Data.v18.2.xml
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  21-03.2019\WordOfGroup1\bin\Debug\DevExpress.Office.v18.2.Core.xml
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  21-03.2019\WordOfGroup1\bin\Debug\DevExpress.Pdf.v18.2.Core.xml
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  21-03.2019\WordOfGroup1\bin\Debug\DevExpress.Printing.v18.2.Core.xml
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  21-03.2019\WordOfGroup1\bin\Debug\DevExpress.RichEdit.v18.2.Core.xml
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  21-03.2019\WordOfGroup1\bin\Debug\DevExpress.Utils.v18.2.xml
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  21-03.2019\WordOfGroup1\bin\Debug\DevExpress.XtraBars.v18.2.xml
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  21-03.2019\WordOfGroup1\bin\Debug\DevExpress.XtraEditors.v18.2.xml
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  21-03.2019\WordOfGroup1\bin\Debug\DevExpress.XtraGrid.v18.2.xml
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  21-03.2019\WordOfGroup1\bin\Debug\DevExpress.XtraPrinting.v18.2.xml
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  21-03.2019\WordOfGroup1\bin\Debug\DevExpress.XtraRichEdit.v18.2.xml
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  21-03.2019\WordOfGroup1\bin\Debug\DevExpress.Sparkline.v18.2.Core.xml
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  21-03.2019\WordOfGroup1\bin\Debug\DevExpress.XtraLayout.v18.2.xml
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  21-03.2019\WordOfGroup1\bin\Debug\DevExpress.XtraTreeList.v18.2.xml
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  21-03.2019\WordOfGroup1\bin\Debug\de\DevExpress.Data.v18.2.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  21-03.2019\WordOfGroup1\bin\Debug\es\DevExpress.Data.v18.2.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  21-03.2019\WordOfGroup1\bin\Debug\ja\DevExpress.Data.v18.2.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  21-03.2019\WordOfGroup1\bin\Debug\ru\DevExpress.Data.v18.2.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  21-03.2019\WordOfGroup1\bin\Debug\de\DevExpress.Office.v18.2.Core.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  21-03.2019\WordOfGroup1\bin\Debug\es\DevExpress.Office.v18.2.Core.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  21-03.2019\WordOfGroup1\bin\Debug\ja\DevExpress.Office.v18.2.Core.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  21-03.2019\WordOfGroup1\bin\Debug\ru\DevExpress.Office.v18.2.Core.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  21-03.2019\WordOfGroup1\bin\Debug\de\DevExpress.Pdf.v18.2.Core.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  21-03.2019\WordOfGroup1\bin\Debug\es\DevExpress.Pdf.v18.2.Core.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  21-03.2019\WordOfGroup1\bin\Debug\ja\DevExpress.Pdf.v18.2.Core.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  21-03.2019\WordOfGroup1\bin\Debug\ru\DevExpress.Pdf.v18.2.Core.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  21-03.2019\WordOfGroup1\bin\Debug\de\DevExpress.Printing.v18.2.Core.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  21-03.2019\WordOfGroup1\bin\Debug\es\DevExpress.Printing.v18.2.Core.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  21-03.2019\WordOfGroup1\bin\Debug\ja\DevExpress.Printing.v18.2.Core.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  21-03.2019\WordOfGroup1\bin\Debug\ru\DevExpress.Printing.v18.2.Core.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  21-03.2019\WordOfGroup1\bin\Debug\de\DevExpress.RichEdit.v18.2.Core.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  21-03.2019\WordOfGroup1\bin\Debug\es\DevExpress.RichEdit.v18.2.Core.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  21-03.2019\WordOfGroup1\bin\Debug\ja\DevExpress.RichEdit.v18.2.Core.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  21-03.2019\WordOfGroup1\bin\Debug\ru\DevExpress.RichEdit.v18.2.Core.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  21-03.2019\WordOfGroup1\bin\Debug\de\DevExpress.Utils.v18.2.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  21-03.2019\WordOfGroup1\bin\Debug\es\DevExpress.Utils.v18.2.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  21-03.2019\WordOfGroup1\bin\Debug\ja\DevExpress.Utils.v18.2.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  21-03.2019\WordOfGroup1\bin\Debug\ru\DevExpress.Utils.v18.2.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  21-03.2019\WordOfGroup1\bin\Debug\de\DevExpress.XtraBars.v18.2.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  21-03.2019\WordOfGroup1\bin\Debug\es\DevExpress.XtraBars.v18.2.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  21-03.2019\WordOfGroup1\bin\Debug\ja\DevExpress.XtraBars.v18.2.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  21-03.2019\WordOfGroup1\bin\Debug\ru\DevExpress.XtraBars.v18.2.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  21-03.2019\WordOfGroup1\bin\Debug\de\DevExpress.XtraEditors.v18.2.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  21-03.2019\WordOfGroup1\bin\Debug\es\DevExpress.XtraEditors.v18.2.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  21-03.2019\WordOfGroup1\bin\Debug\ja\DevExpress.XtraEditors.v18.2.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  21-03.2019\WordOfGroup1\bin\Debug\ru\DevExpress.XtraEditors.v18.2.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  21-03.2019\WordOfGroup1\bin\Debug\de\DevExpress.XtraGrid.v18.2.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  21-03.2019\WordOfGroup1\bin\Debug\es\DevExpress.XtraGrid.v18.2.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  21-03.2019\WordOfGroup1\bin\Debug\ja\DevExpress.XtraGrid.v18.2.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  21-03.2019\WordOfGroup1\bin\Debug\ru\DevExpress.XtraGrid.v18.2.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  21-03.2019\WordOfGroup1\bin\Debug\de\DevExpress.XtraPrinting.v18.2.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  21-03.2019\WordOfGroup1\bin\Debug\es\DevExpress.XtraPrinting.v18.2.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  21-03.2019\WordOfGroup1\bin\Debug\ja\DevExpress.XtraPrinting.v18.2.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  21-03.2019\WordOfGroup1\bin\Debug\ru\DevExpress.XtraPrinting.v18.2.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  21-03.2019\WordOfGroup1\bin\Debug\de\DevExpress.XtraRichEdit.v18.2.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  21-03.2019\WordOfGroup1\bin\Debug\es\DevExpress.XtraRichEdit.v18.2.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  21-03.2019\WordOfGroup1\bin\Debug\ja\DevExpress.XtraRichEdit.v18.2.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  21-03.2019\WordOfGroup1\bin\Debug\ru\DevExpress.XtraRichEdit.v18.2.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  21-03.2019\WordOfGroup1\bin\Debug\de\DevExpress.Sparkline.v18.2.Core.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  21-03.2019\WordOfGroup1\bin\Debug\es\DevExpress.Sparkline.v18.2.Core.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  21-03.2019\WordOfGroup1\bin\Debug\ja\DevExpress.Sparkline.v18.2.Core.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  21-03.2019\WordOfGroup1\bin\Debug\ru\DevExpress.Sparkline.v18.2.Core.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  21-03.2019\WordOfGroup1\bin\Debug\de\DevExpress.XtraLayout.v18.2.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  21-03.2019\WordOfGroup1\bin\Debug\es\DevExpress.XtraLayout.v18.2.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  21-03.2019\WordOfGroup1\bin\Debug\ja\DevExpress.XtraLayout.v18.2.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  21-03.2019\WordOfGroup1\bin\Debug\ru\DevExpress.XtraLayout.v18.2.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  21-03.2019\WordOfGroup1\bin\Debug\de\DevExpress.XtraTreeList.v18.2.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  21-03.2019\WordOfGroup1\bin\Debug\es\DevExpress.XtraTreeList.v18.2.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  21-03.2019\WordOfGroup1\bin\Debug\ja\DevExpress.XtraTreeList.v18.2.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  21-03.2019\WordOfGroup1\bin\Debug\ru\DevExpress.XtraTreeList.v18.2.resources.dll
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  21-03.2019\WordOfGroup1\obj\Debug\WordOfGroup1.csprojAssemblyReference.cache
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  21-03.2019\WordOfGroup1\obj\Debug\WordOfGroup1.FileOptionsControl.resources
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  21-03.2019\WordOfGroup1\obj\Debug\WordOfGroup1.LoadingForm.resources
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  21-03.2019\WordOfGroup1\obj\Debug\WordOfGroup1.MainForm.resources
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  21-03.2019\WordOfGroup1\obj\Debug\WordOfGroup1.Properties.Resources.resources
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  21-03.2019\WordOfGroup1\obj\Debug\WordOfGroup1.csproj.GenerateResource.cache
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  21-03.2019\WordOfGroup1\obj\Debug\WordOfGroup1.exe.licenses
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  21-03.2019\WordOfGroup1\obj\Debug\WordOfGroup1.csproj.CoreCompileInputs.cache
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  21-03.2019\WordOfGroup1\obj\Debug\WordOfGroup1.csproj.CopyComplete
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  21-03.2019\WordOfGroup1\obj\Debug\WordOfGroup1.exe
+G:\K.U\3-1 Term\SDP LAB\WordOfGroup1-  21-03.2019\WordOfGroup1\obj\Debug\WordOfGroup1.pdb
+C:\Users\Acer\OneDrive\Desktop\RichTextBoxFinal\WordOfGroup1\bin\Debug\WordOfGroup1.exe.config
+C:\Users\Acer\OneDrive\Desktop\RichTextBoxFinal\WordOfGroup1\bin\Debug\WordOfGroup1.exe
+C:\Users\Acer\OneDrive\Desktop\RichTextBoxFinal\WordOfGroup1\bin\Debug\WordOfGroup1.pdb
+C:\Users\Acer\OneDrive\Desktop\RichTextBoxFinal\WordOfGroup1\bin\Debug\DevExpress.Data.v18.2.dll
+C:\Users\Acer\OneDrive\Desktop\RichTextBoxFinal\WordOfGroup1\bin\Debug\DevExpress.Images.v18.2.dll
+C:\Users\Acer\OneDrive\Desktop\RichTextBoxFinal\WordOfGroup1\bin\Debug\DevExpress.Office.v18.2.Core.dll
+C:\Users\Acer\OneDrive\Desktop\RichTextBoxFinal\WordOfGroup1\bin\Debug\DevExpress.Pdf.v18.2.Core.dll
+C:\Users\Acer\OneDrive\Desktop\RichTextBoxFinal\WordOfGroup1\bin\Debug\DevExpress.Printing.v18.2.Core.dll
+C:\Users\Acer\OneDrive\Desktop\RichTextBoxFinal\WordOfGroup1\bin\Debug\DevExpress.RichEdit.v18.2.Core.dll
+C:\Users\Acer\OneDrive\Desktop\RichTextBoxFinal\WordOfGroup1\bin\Debug\DevExpress.Utils.v18.2.dll
+C:\Users\Acer\OneDrive\Desktop\RichTextBoxFinal\WordOfGroup1\bin\Debug\DevExpress.XtraBars.v18.2.dll
+C:\Users\Acer\OneDrive\Desktop\RichTextBoxFinal\WordOfGroup1\bin\Debug\DevExpress.XtraEditors.v18.2.dll
+C:\Users\Acer\OneDrive\Desktop\RichTextBoxFinal\WordOfGroup1\bin\Debug\DevExpress.XtraGrid.v18.2.dll
+C:\Users\Acer\OneDrive\Desktop\RichTextBoxFinal\WordOfGroup1\bin\Debug\DevExpress.XtraPrinting.v18.2.dll
+C:\Users\Acer\OneDrive\Desktop\RichTextBoxFinal\WordOfGroup1\bin\Debug\DevExpress.XtraRichEdit.v18.2.dll
+C:\Users\Acer\OneDrive\Desktop\RichTextBoxFinal\WordOfGroup1\bin\Debug\DevExpress.Sparkline.v18.2.Core.dll
+C:\Users\Acer\OneDrive\Desktop\RichTextBoxFinal\WordOfGroup1\bin\Debug\DevExpress.XtraLayout.v18.2.dll
+C:\Users\Acer\OneDrive\Desktop\RichTextBoxFinal\WordOfGroup1\bin\Debug\DevExpress.XtraTreeList.v18.2.dll
+C:\Users\Acer\OneDrive\Desktop\RichTextBoxFinal\WordOfGroup1\bin\Debug\DevExpress.Data.v18.2.xml
+C:\Users\Acer\OneDrive\Desktop\RichTextBoxFinal\WordOfGroup1\bin\Debug\DevExpress.Office.v18.2.Core.xml
+C:\Users\Acer\OneDrive\Desktop\RichTextBoxFinal\WordOfGroup1\bin\Debug\DevExpress.Pdf.v18.2.Core.xml
+C:\Users\Acer\OneDrive\Desktop\RichTextBoxFinal\WordOfGroup1\bin\Debug\DevExpress.Printing.v18.2.Core.xml
+C:\Users\Acer\OneDrive\Desktop\RichTextBoxFinal\WordOfGroup1\bin\Debug\DevExpress.RichEdit.v18.2.Core.xml
+C:\Users\Acer\OneDrive\Desktop\RichTextBoxFinal\WordOfGroup1\bin\Debug\DevExpress.Utils.v18.2.xml
+C:\Users\Acer\OneDrive\Desktop\RichTextBoxFinal\WordOfGroup1\bin\Debug\DevExpress.XtraBars.v18.2.xml
+C:\Users\Acer\OneDrive\Desktop\RichTextBoxFinal\WordOfGroup1\bin\Debug\DevExpress.XtraEditors.v18.2.xml
+C:\Users\Acer\OneDrive\Desktop\RichTextBoxFinal\WordOfGroup1\bin\Debug\DevExpress.XtraGrid.v18.2.xml
+C:\Users\Acer\OneDrive\Desktop\RichTextBoxFinal\WordOfGroup1\bin\Debug\DevExpress.XtraPrinting.v18.2.xml
+C:\Users\Acer\OneDrive\Desktop\RichTextBoxFinal\WordOfGroup1\bin\Debug\DevExpress.XtraRichEdit.v18.2.xml
+C:\Users\Acer\OneDrive\Desktop\RichTextBoxFinal\WordOfGroup1\bin\Debug\DevExpress.Sparkline.v18.2.Core.xml
+C:\Users\Acer\OneDrive\Desktop\RichTextBoxFinal\WordOfGroup1\bin\Debug\DevExpress.XtraLayout.v18.2.xml
+C:\Users\Acer\OneDrive\Desktop\RichTextBoxFinal\WordOfGroup1\bin\Debug\DevExpress.XtraTreeList.v18.2.xml
+C:\Users\Acer\OneDrive\Desktop\RichTextBoxFinal\WordOfGroup1\bin\Debug\de\DevExpress.Data.v18.2.resources.dll
+C:\Users\Acer\OneDrive\Desktop\RichTextBoxFinal\WordOfGroup1\bin\Debug\es\DevExpress.Data.v18.2.resources.dll
+C:\Users\Acer\OneDrive\Desktop\RichTextBoxFinal\WordOfGroup1\bin\Debug\ja\DevExpress.Data.v18.2.resources.dll
+C:\Users\Acer\OneDrive\Desktop\RichTextBoxFinal\WordOfGroup1\bin\Debug\ru\DevExpress.Data.v18.2.resources.dll
+C:\Users\Acer\OneDrive\Desktop\RichTextBoxFinal\WordOfGroup1\bin\Debug\de\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\Acer\OneDrive\Desktop\RichTextBoxFinal\WordOfGroup1\bin\Debug\es\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\Acer\OneDrive\Desktop\RichTextBoxFinal\WordOfGroup1\bin\Debug\ja\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\Acer\OneDrive\Desktop\RichTextBoxFinal\WordOfGroup1\bin\Debug\ru\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\Acer\OneDrive\Desktop\RichTextBoxFinal\WordOfGroup1\bin\Debug\de\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\Acer\OneDrive\Desktop\RichTextBoxFinal\WordOfGroup1\bin\Debug\es\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\Acer\OneDrive\Desktop\RichTextBoxFinal\WordOfGroup1\bin\Debug\ja\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\Acer\OneDrive\Desktop\RichTextBoxFinal\WordOfGroup1\bin\Debug\ru\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\Acer\OneDrive\Desktop\RichTextBoxFinal\WordOfGroup1\bin\Debug\de\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\Acer\OneDrive\Desktop\RichTextBoxFinal\WordOfGroup1\bin\Debug\es\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\Acer\OneDrive\Desktop\RichTextBoxFinal\WordOfGroup1\bin\Debug\ja\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\Acer\OneDrive\Desktop\RichTextBoxFinal\WordOfGroup1\bin\Debug\ru\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\Acer\OneDrive\Desktop\RichTextBoxFinal\WordOfGroup1\bin\Debug\de\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\Acer\OneDrive\Desktop\RichTextBoxFinal\WordOfGroup1\bin\Debug\es\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\Acer\OneDrive\Desktop\RichTextBoxFinal\WordOfGroup1\bin\Debug\ja\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\Acer\OneDrive\Desktop\RichTextBoxFinal\WordOfGroup1\bin\Debug\ru\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\Acer\OneDrive\Desktop\RichTextBoxFinal\WordOfGroup1\bin\Debug\de\DevExpress.Utils.v18.2.resources.dll
+C:\Users\Acer\OneDrive\Desktop\RichTextBoxFinal\WordOfGroup1\bin\Debug\es\DevExpress.Utils.v18.2.resources.dll
+C:\Users\Acer\OneDrive\Desktop\RichTextBoxFinal\WordOfGroup1\bin\Debug\ja\DevExpress.Utils.v18.2.resources.dll
+C:\Users\Acer\OneDrive\Desktop\RichTextBoxFinal\WordOfGroup1\bin\Debug\ru\DevExpress.Utils.v18.2.resources.dll
+C:\Users\Acer\OneDrive\Desktop\RichTextBoxFinal\WordOfGroup1\bin\Debug\de\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\Acer\OneDrive\Desktop\RichTextBoxFinal\WordOfGroup1\bin\Debug\es\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\Acer\OneDrive\Desktop\RichTextBoxFinal\WordOfGroup1\bin\Debug\ja\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\Acer\OneDrive\Desktop\RichTextBoxFinal\WordOfGroup1\bin\Debug\ru\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\Acer\OneDrive\Desktop\RichTextBoxFinal\WordOfGroup1\bin\Debug\de\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\Acer\OneDrive\Desktop\RichTextBoxFinal\WordOfGroup1\bin\Debug\es\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\Acer\OneDrive\Desktop\RichTextBoxFinal\WordOfGroup1\bin\Debug\ja\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\Acer\OneDrive\Desktop\RichTextBoxFinal\WordOfGroup1\bin\Debug\ru\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\Acer\OneDrive\Desktop\RichTextBoxFinal\WordOfGroup1\bin\Debug\de\DevExpress.XtraGrid.v18.2.resources.dll
+C:\Users\Acer\OneDrive\Desktop\RichTextBoxFinal\WordOfGroup1\bin\Debug\es\DevExpress.XtraGrid.v18.2.resources.dll
+C:\Users\Acer\OneDrive\Desktop\RichTextBoxFinal\WordOfGroup1\bin\Debug\ja\DevExpress.XtraGrid.v18.2.resources.dll
+C:\Users\Acer\OneDrive\Desktop\RichTextBoxFinal\WordOfGroup1\bin\Debug\ru\DevExpress.XtraGrid.v18.2.resources.dll
+C:\Users\Acer\OneDrive\Desktop\RichTextBoxFinal\WordOfGroup1\bin\Debug\de\DevExpress.XtraPrinting.v18.2.resources.dll
+C:\Users\Acer\OneDrive\Desktop\RichTextBoxFinal\WordOfGroup1\bin\Debug\es\DevExpress.XtraPrinting.v18.2.resources.dll
+C:\Users\Acer\OneDrive\Desktop\RichTextBoxFinal\WordOfGroup1\bin\Debug\ja\DevExpress.XtraPrinting.v18.2.resources.dll
+C:\Users\Acer\OneDrive\Desktop\RichTextBoxFinal\WordOfGroup1\bin\Debug\ru\DevExpress.XtraPrinting.v18.2.resources.dll
+C:\Users\Acer\OneDrive\Desktop\RichTextBoxFinal\WordOfGroup1\bin\Debug\de\DevExpress.XtraRichEdit.v18.2.resources.dll
+C:\Users\Acer\OneDrive\Desktop\RichTextBoxFinal\WordOfGroup1\bin\Debug\es\DevExpress.XtraRichEdit.v18.2.resources.dll
+C:\Users\Acer\OneDrive\Desktop\RichTextBoxFinal\WordOfGroup1\bin\Debug\ja\DevExpress.XtraRichEdit.v18.2.resources.dll
+C:\Users\Acer\OneDrive\Desktop\RichTextBoxFinal\WordOfGroup1\bin\Debug\ru\DevExpress.XtraRichEdit.v18.2.resources.dll
+C:\Users\Acer\OneDrive\Desktop\RichTextBoxFinal\WordOfGroup1\bin\Debug\de\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\Acer\OneDrive\Desktop\RichTextBoxFinal\WordOfGroup1\bin\Debug\es\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\Acer\OneDrive\Desktop\RichTextBoxFinal\WordOfGroup1\bin\Debug\ja\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\Acer\OneDrive\Desktop\RichTextBoxFinal\WordOfGroup1\bin\Debug\ru\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\Acer\OneDrive\Desktop\RichTextBoxFinal\WordOfGroup1\bin\Debug\de\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\Acer\OneDrive\Desktop\RichTextBoxFinal\WordOfGroup1\bin\Debug\es\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\Acer\OneDrive\Desktop\RichTextBoxFinal\WordOfGroup1\bin\Debug\ja\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\Acer\OneDrive\Desktop\RichTextBoxFinal\WordOfGroup1\bin\Debug\ru\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\Acer\OneDrive\Desktop\RichTextBoxFinal\WordOfGroup1\bin\Debug\de\DevExpress.XtraTreeList.v18.2.resources.dll
+C:\Users\Acer\OneDrive\Desktop\RichTextBoxFinal\WordOfGroup1\bin\Debug\es\DevExpress.XtraTreeList.v18.2.resources.dll
+C:\Users\Acer\OneDrive\Desktop\RichTextBoxFinal\WordOfGroup1\bin\Debug\ja\DevExpress.XtraTreeList.v18.2.resources.dll
+C:\Users\Acer\OneDrive\Desktop\RichTextBoxFinal\WordOfGroup1\bin\Debug\ru\DevExpress.XtraTreeList.v18.2.resources.dll
+C:\Users\Acer\OneDrive\Desktop\RichTextBoxFinal\WordOfGroup1\obj\Debug\WordOfGroup1.csprojAssemblyReference.cache
+C:\Users\Acer\OneDrive\Desktop\RichTextBoxFinal\WordOfGroup1\obj\Debug\WordOfGroup1.FileOptionsControl.resources
+C:\Users\Acer\OneDrive\Desktop\RichTextBoxFinal\WordOfGroup1\obj\Debug\WordOfGroup1.LoadingForm.resources
+C:\Users\Acer\OneDrive\Desktop\RichTextBoxFinal\WordOfGroup1\obj\Debug\WordOfGroup1.MainForm.resources
+C:\Users\Acer\OneDrive\Desktop\RichTextBoxFinal\WordOfGroup1\obj\Debug\WordOfGroup1.Properties.Resources.resources
+C:\Users\Acer\OneDrive\Desktop\RichTextBoxFinal\WordOfGroup1\obj\Debug\WordOfGroup1.csproj.GenerateResource.cache
+C:\Users\Acer\OneDrive\Desktop\RichTextBoxFinal\WordOfGroup1\obj\Debug\WordOfGroup1.exe.licenses
+C:\Users\Acer\OneDrive\Desktop\RichTextBoxFinal\WordOfGroup1\obj\Debug\WordOfGroup1.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Desktop\RichTextBoxFinal\WordOfGroup1\obj\Debug\WordOfGroup1.csproj.CopyComplete
+C:\Users\Acer\OneDrive\Desktop\RichTextBoxFinal\WordOfGroup1\obj\Debug\WordOfGroup1.exe
+C:\Users\Acer\OneDrive\Desktop\RichTextBoxFinal\WordOfGroup1\obj\Debug\WordOfGroup1.pdb
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\obj\Debug\WordOfGroup1.csprojAssemblyReference.cache
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\obj\Debug\WordOfGroup1.FileOptionsControl.resources
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\obj\Debug\WordOfGroup1.LoadingForm.resources
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\obj\Debug\WordOfGroup1.MainForm.resources
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\obj\Debug\WordOfGroup1.Properties.Resources.resources
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\obj\Debug\WordOfGroup1.csproj.GenerateResource.cache
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\obj\Debug\WordOfGroup1.exe.licenses
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\obj\Debug\WordOfGroup1.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\obj\Debug\WordOfGroup1.exe
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\obj\Debug\WordOfGroup1.pdb
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\bin\Debug\WordOfGroup1.exe.config
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\bin\Debug\WordOfGroup1.exe
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\bin\Debug\WordOfGroup1.pdb
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\bin\Debug\DevExpress.Sparkline.v18.2.Core.dll
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\bin\Debug\DevExpress.XtraLayout.v18.2.dll
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\bin\Debug\DevExpress.XtraTreeList.v18.2.dll
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\bin\Debug\DevExpress.Data.v18.2.xml
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\bin\Debug\DevExpress.Office.v18.2.Core.xml
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\bin\Debug\DevExpress.Pdf.v18.2.Core.xml
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\bin\Debug\DevExpress.Printing.v18.2.Core.xml
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\bin\Debug\DevExpress.RichEdit.v18.2.Core.xml
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\bin\Debug\DevExpress.Utils.v18.2.xml
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\bin\Debug\DevExpress.XtraBars.v18.2.xml
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\bin\Debug\DevExpress.XtraEditors.v18.2.xml
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\bin\Debug\DevExpress.XtraGrid.v18.2.xml
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\bin\Debug\DevExpress.XtraPrinting.v18.2.xml
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\bin\Debug\DevExpress.XtraRichEdit.v18.2.xml
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\bin\Debug\DevExpress.Sparkline.v18.2.Core.xml
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\bin\Debug\DevExpress.XtraLayout.v18.2.xml
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\bin\Debug\DevExpress.XtraTreeList.v18.2.xml
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\bin\Debug\de\DevExpress.Data.v18.2.resources.dll
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\bin\Debug\es\DevExpress.Data.v18.2.resources.dll
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\bin\Debug\ja\DevExpress.Data.v18.2.resources.dll
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\bin\Debug\ru\DevExpress.Data.v18.2.resources.dll
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\bin\Debug\de\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\bin\Debug\es\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\bin\Debug\ja\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\bin\Debug\ru\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\bin\Debug\de\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\bin\Debug\es\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\bin\Debug\ja\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\bin\Debug\ru\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\bin\Debug\de\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\bin\Debug\es\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\bin\Debug\ja\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\bin\Debug\ru\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\bin\Debug\de\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\bin\Debug\es\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\bin\Debug\ja\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\bin\Debug\ru\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\bin\Debug\de\DevExpress.Utils.v18.2.resources.dll
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\bin\Debug\es\DevExpress.Utils.v18.2.resources.dll
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\bin\Debug\ja\DevExpress.Utils.v18.2.resources.dll
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\bin\Debug\ru\DevExpress.Utils.v18.2.resources.dll
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\bin\Debug\de\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\bin\Debug\es\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\bin\Debug\ja\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\bin\Debug\ru\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\bin\Debug\de\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\bin\Debug\es\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\bin\Debug\ja\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\bin\Debug\ru\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\bin\Debug\de\DevExpress.XtraGrid.v18.2.resources.dll
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\bin\Debug\es\DevExpress.XtraGrid.v18.2.resources.dll
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\bin\Debug\ja\DevExpress.XtraGrid.v18.2.resources.dll
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\bin\Debug\ru\DevExpress.XtraGrid.v18.2.resources.dll
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\bin\Debug\de\DevExpress.XtraPrinting.v18.2.resources.dll
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\bin\Debug\es\DevExpress.XtraPrinting.v18.2.resources.dll
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\bin\Debug\ja\DevExpress.XtraPrinting.v18.2.resources.dll
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\bin\Debug\ru\DevExpress.XtraPrinting.v18.2.resources.dll
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\bin\Debug\de\DevExpress.XtraRichEdit.v18.2.resources.dll
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\bin\Debug\es\DevExpress.XtraRichEdit.v18.2.resources.dll
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\bin\Debug\ja\DevExpress.XtraRichEdit.v18.2.resources.dll
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\bin\Debug\ru\DevExpress.XtraRichEdit.v18.2.resources.dll
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\bin\Debug\de\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\bin\Debug\es\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\bin\Debug\ja\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\bin\Debug\ru\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\bin\Debug\de\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\bin\Debug\es\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\bin\Debug\ja\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\bin\Debug\ru\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\bin\Debug\de\DevExpress.XtraTreeList.v18.2.resources.dll
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\bin\Debug\es\DevExpress.XtraTreeList.v18.2.resources.dll
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\bin\Debug\ja\DevExpress.XtraTreeList.v18.2.resources.dll
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\bin\Debug\ru\DevExpress.XtraTreeList.v18.2.resources.dll
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\obj\Debug\WordOfGroup1.csproj.CopyComplete
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\bin\Debug\DevExpress.Diagram.v18.2.Core.dll
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\bin\Debug\DevExpress.XtraDiagram.v18.2.dll
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\bin\Debug\DevExpress.XtraVerticalGrid.v18.2.dll
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\bin\Debug\DevExpress.Diagram.v18.2.Core.xml
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\bin\Debug\DevExpress.XtraDiagram.v18.2.xml
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\bin\Debug\DevExpress.XtraVerticalGrid.v18.2.xml
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\bin\Debug\de\DevExpress.Diagram.v18.2.Core.resources.dll
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\bin\Debug\es\DevExpress.Diagram.v18.2.Core.resources.dll
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\bin\Debug\ja\DevExpress.Diagram.v18.2.Core.resources.dll
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\bin\Debug\ru\DevExpress.Diagram.v18.2.Core.resources.dll
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\bin\Debug\de\DevExpress.XtraVerticalGrid.v18.2.resources.dll
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\bin\Debug\es\DevExpress.XtraVerticalGrid.v18.2.resources.dll
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\bin\Debug\ja\DevExpress.XtraVerticalGrid.v18.2.resources.dll
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\bin\Debug\ru\DevExpress.XtraVerticalGrid.v18.2.resources.dll
+C:\Users\Acer\OneDrive\Desktop\richEditControlFinal\WordOfGroup1\obj\Debug\WordOfGroup1.exe.config
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\bin\Debug\WordOfGroup1.exe.config
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\bin\Debug\WordOfGroup1.exe
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\bin\Debug\WordOfGroup1.pdb
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\bin\Debug\DevExpress.Diagram.v18.2.Core.dll
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\bin\Debug\DevExpress.XtraDiagram.v18.2.dll
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\bin\Debug\DevExpress.XtraVerticalGrid.v18.2.dll
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\bin\Debug\DevExpress.Sparkline.v18.2.Core.dll
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\bin\Debug\DevExpress.XtraLayout.v18.2.dll
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\bin\Debug\DevExpress.XtraTreeList.v18.2.dll
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\bin\Debug\DevExpress.Data.v18.2.xml
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\bin\Debug\DevExpress.Diagram.v18.2.Core.xml
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\bin\Debug\DevExpress.Office.v18.2.Core.xml
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\bin\Debug\DevExpress.Pdf.v18.2.Core.xml
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\bin\Debug\DevExpress.Printing.v18.2.Core.xml
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\bin\Debug\DevExpress.RichEdit.v18.2.Core.xml
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\bin\Debug\DevExpress.Utils.v18.2.xml
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\bin\Debug\DevExpress.XtraBars.v18.2.xml
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\bin\Debug\DevExpress.XtraDiagram.v18.2.xml
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\bin\Debug\DevExpress.XtraEditors.v18.2.xml
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\bin\Debug\DevExpress.XtraGrid.v18.2.xml
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\bin\Debug\DevExpress.XtraPrinting.v18.2.xml
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\bin\Debug\DevExpress.XtraRichEdit.v18.2.xml
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\bin\Debug\DevExpress.XtraVerticalGrid.v18.2.xml
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\bin\Debug\DevExpress.Sparkline.v18.2.Core.xml
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\bin\Debug\DevExpress.XtraLayout.v18.2.xml
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\bin\Debug\DevExpress.XtraTreeList.v18.2.xml
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\bin\Debug\de\DevExpress.Data.v18.2.resources.dll
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\bin\Debug\es\DevExpress.Data.v18.2.resources.dll
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\bin\Debug\ja\DevExpress.Data.v18.2.resources.dll
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\bin\Debug\ru\DevExpress.Data.v18.2.resources.dll
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\bin\Debug\de\DevExpress.Diagram.v18.2.Core.resources.dll
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\bin\Debug\es\DevExpress.Diagram.v18.2.Core.resources.dll
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\bin\Debug\ja\DevExpress.Diagram.v18.2.Core.resources.dll
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\bin\Debug\ru\DevExpress.Diagram.v18.2.Core.resources.dll
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\bin\Debug\de\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\bin\Debug\es\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\bin\Debug\ja\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\bin\Debug\ru\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\bin\Debug\de\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\bin\Debug\es\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\bin\Debug\ja\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\bin\Debug\ru\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\bin\Debug\de\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\bin\Debug\es\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\bin\Debug\ja\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\bin\Debug\ru\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\bin\Debug\de\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\bin\Debug\es\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\bin\Debug\ja\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\bin\Debug\ru\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\bin\Debug\de\DevExpress.Utils.v18.2.resources.dll
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\bin\Debug\es\DevExpress.Utils.v18.2.resources.dll
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\bin\Debug\ja\DevExpress.Utils.v18.2.resources.dll
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\bin\Debug\ru\DevExpress.Utils.v18.2.resources.dll
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\bin\Debug\de\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\bin\Debug\es\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\bin\Debug\ja\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\bin\Debug\ru\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\bin\Debug\de\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\bin\Debug\es\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\bin\Debug\ja\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\bin\Debug\ru\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\bin\Debug\de\DevExpress.XtraGrid.v18.2.resources.dll
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\bin\Debug\es\DevExpress.XtraGrid.v18.2.resources.dll
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\bin\Debug\ja\DevExpress.XtraGrid.v18.2.resources.dll
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\bin\Debug\ru\DevExpress.XtraGrid.v18.2.resources.dll
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\bin\Debug\de\DevExpress.XtraPrinting.v18.2.resources.dll
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\bin\Debug\es\DevExpress.XtraPrinting.v18.2.resources.dll
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\bin\Debug\ja\DevExpress.XtraPrinting.v18.2.resources.dll
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\bin\Debug\ru\DevExpress.XtraPrinting.v18.2.resources.dll
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\bin\Debug\de\DevExpress.XtraRichEdit.v18.2.resources.dll
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\bin\Debug\es\DevExpress.XtraRichEdit.v18.2.resources.dll
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\bin\Debug\ja\DevExpress.XtraRichEdit.v18.2.resources.dll
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\bin\Debug\ru\DevExpress.XtraRichEdit.v18.2.resources.dll
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\bin\Debug\de\DevExpress.XtraVerticalGrid.v18.2.resources.dll
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\bin\Debug\es\DevExpress.XtraVerticalGrid.v18.2.resources.dll
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\bin\Debug\ja\DevExpress.XtraVerticalGrid.v18.2.resources.dll
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\bin\Debug\ru\DevExpress.XtraVerticalGrid.v18.2.resources.dll
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\bin\Debug\de\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\bin\Debug\es\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\bin\Debug\ja\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\bin\Debug\ru\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\bin\Debug\de\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\bin\Debug\es\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\bin\Debug\ja\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\bin\Debug\ru\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\bin\Debug\de\DevExpress.XtraTreeList.v18.2.resources.dll
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\bin\Debug\es\DevExpress.XtraTreeList.v18.2.resources.dll
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\bin\Debug\ja\DevExpress.XtraTreeList.v18.2.resources.dll
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\bin\Debug\ru\DevExpress.XtraTreeList.v18.2.resources.dll
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\obj\Debug\WordOfGroup1.csprojAssemblyReference.cache
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\obj\Debug\WordOfGroup1.exe.config
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\obj\Debug\WordOfGroup1.FileOptionsControl.resources
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\obj\Debug\WordOfGroup1.LoadingForm.resources
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\obj\Debug\WordOfGroup1.MainForm.resources
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\obj\Debug\WordOfGroup1.Properties.Resources.resources
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\obj\Debug\WordOfGroup1.csproj.GenerateResource.cache
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\obj\Debug\WordOfGroup1.exe.licenses
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\obj\Debug\WordOfGroup1.csproj.CoreCompileInputs.cache
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\obj\Debug\WordOfGroup1.csproj.CopyComplete
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\obj\Debug\WordOfGroup1.exe
+C:\Users\RoKeYa\Desktop\FINAL SDP\richEditControlFinal\WordOfGroup1\obj\Debug\WordOfGroup1.pdb
